@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1kiBuc-MVf_GpRf583ZUj8jRf9zSwHIae" alt="drawing" width="500"/>
-  </p>
+  <img src="https://drive.google.com/uc?export=view&id=1IOfE1dKrdg5ScKsoBxPqvmS-VMbQaKjb" alt="drawing" width="500"/>
+</p>
 
 <h1 align="center">AUTORIZACIÓN DEL TRATAMIENTO DE DATOS PERSONALES</h1>
-<h2 align="center">CANAL DE CONTACTO CLIENTES WHATSAPP</h2>
+<h3 align="center">CANAL DE CONTACTO CLIENTES WHATSAPP</h3>
 
 
 **GirarNET S.A.S** Sociedad comercial identificada con el **NIT 901543664 — 9** y con domicilio principal en la dirección **Calle 7 #23 - 11**, **Girardota**, Antioquia; en adelante denominada de forma común e indistinta como **GirarNET**, con fundamento en los dispuesto en el régimen de protección de datos personales consagrado en la **Ley 1581 de 2012** y demás normas reglamentarias y complementarias, manifiesta en su condición de **Responsable del Tratamiento**, que con ocasión a la atención de la presente conversación a través de la aplicación ***WhatsApp***, la cual ha sido habilitada por **GirarNET** para la atención de sus clientes, se podrá recolectar, registrar, almacenar, usar, procesar y eventualmente transmitir o transferir a nivel nacional o internacional, información personal de su titularidad, correspondiente a datos de naturaleza general, identificación, ubicación, contenido socioeconómico y sensible asociada a notas de voz o imágenes fotográficas que eventualmente el titular de información decida compartir a través del presente canal según los términos y condiciones de uso aplicables.
