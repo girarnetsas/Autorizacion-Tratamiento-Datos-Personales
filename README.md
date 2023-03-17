@@ -17,11 +17,6 @@ La anterior información podrá ser utilizada para las siguientes finalidades:
   <li>Permitir la transmisión nacional o internacional de la información a terceros aliados o proveedores con miras a proveer los recursos, servicios e infraestructura necesaria para la habilitación y adecuado funcionamiento del presente canal de contacto.</li>
 </ol> 
 
-1. 
-2. 
-3. 
-
-
 En razón de lo anterior, como titular de la información, usted cuenta con el derecho a conocer, actualizar, rectificar y solicitar la supresión de sus datos personales; abstenerse de suministrar información personal de naturaleza sensible, solicitar la prueba de la autorización otorgada; ser informado sobre el uso que se da a sus datos personales; revocar la autorización otorgada y consultar de forma gratuita los datos personales previamente suministrados. Para **GirarNET** es muy importante respetar y proteger la intimidad, privacidad, seguridad y demás derechos que le asisten como titular de información personal, los cuales podrá ejercer presentando una consulta o reclamo a través de los siguientes canales de atención:
 
 - :mailbox: **Correo electrónico:**  Operaciones@girarnet.com.co
